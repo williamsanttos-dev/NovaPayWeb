@@ -16,7 +16,7 @@ MVP para apresentação de um projeto de faculdade. O intuito é permitir a cria
 
 ### 1️⃣ Backend (API)
 
-Antes rodar o site, você precisa iniciar a API.
+Antes de rodar o site, você precisa iniciar a API.
 
 - **repositório da API:** ...
 - **Pré-requisitos:**
