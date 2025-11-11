@@ -58,3 +58,9 @@ npm install
 # levantar o servidor
 npm run dev
 ```
+
+## 💻 Backend
+
+O backend deste projeto foi desenvolvido em **JavaScript**, e está disponível em:
+
+👉 [Repositório da API](https://github.com/williamsanttos-dev/NovaPay)
